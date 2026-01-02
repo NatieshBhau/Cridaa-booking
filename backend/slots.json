@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "time": "06:00 - 07:00",
+    "court": "Court 1",
+    "isBooked": false
+  },
+  {
+    "id": 2,
+    "time": "07:00 - 08:00",
+    "court": "Court 1",
+    "isBooked": true,
+    "bookedBy": {
+      "userName": "Natiesh Bhau",
+      "phone": "6006638612"
+    }
+  },
+  {
+    "id": 3,
+    "time": "08:00 - 09:00",
+    "court": "Court 1",
+    "isBooked": false
+  },
+  {
+    "id": 4,
+    "time": "06:00 - 07:00",
+    "court": "Court 2",
+    "isBooked": false
+  },
+  {
+    "id": 5,
+    "time": "07:00 - 08:00",
+    "court": "Court 2",
+    "isBooked": false
+  }
+]
