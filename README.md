@@ -41,9 +41,7 @@ FOLDER STRUCTURE
 BACKEND
 --> Node.js + Express API
 
-FRONTEND 
-
--->React + Tailwind UI
+FRONTEND  -->React + Tailwind UI
 
 └── README.md
 
