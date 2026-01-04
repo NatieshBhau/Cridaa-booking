@@ -38,8 +38,10 @@ API ENDPOINTS
 
 FOLDER STRUCTURE 
 
-├── backend/     # Node.js + Express API
-├── frontend/    # React + Tailwind UI
+├── backend
+# Node.js + Express API
+├── frontend
+React + Tailwind UI
 └── README.md
 
 CHALLENGES:
