@@ -50,3 +50,5 @@ CHALLENGES:
 Used JSON file as DB for simplicity (easy to swap with MongoDB).
 Rest it is basic application.
 
+SNAPSHOT LINK ---> <img width="2832" height="1530" alt="image" src="https://github.com/user-attachments/assets/4c62da51-8be2-4fc7-966d-990a40fbfdb8" />
+
